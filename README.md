@@ -18,6 +18,7 @@ Este es un proyecto de API REST construido con FastAPI para gestionar dispositiv
 
 ### Estructura de proyecto
 
+```bash
 device_systems_python/
 │── app/
 │   │── main.py
@@ -33,6 +34,7 @@ device_systems_python/
 │       └── user_service.py
 │── requirements.txt
 └── README.md
+```
 
 
 ### Instalación de dependencias
@@ -412,3 +414,8 @@ Por otro lado, Pydantic Schema se utiliza para validar la información que recib
 
 ### Reflexion final
 Durante el desarrollo de este proyecto fue posible comprender mejor cómo organizar una aplicación utilizando diferentes herramientas para cada tarea. También se aprendió la importancia de validar la información antes de almacenarla y de mantener una buena estructura en el código para facilitar su mantenimiento.
+#### Link del video de explicacion
+https://www.loom.com/share/aeddb09c80c8458786d80b74b000cae2
+
+#### Link parte 2;
+https://www.loom.com/share/e7075bf1c1c6493891621e42516b140f
